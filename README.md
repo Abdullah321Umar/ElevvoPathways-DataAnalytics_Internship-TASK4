@@ -1,7 +1,10 @@
-# 🛍️ Data Analytics Internship Task 4 | Olist E-Commerce Sales Analysis Dashboard 📊
+## 🛍️ Data Analytics Internship Task 4 | Olist E-Commerce Sales Analysis Dashboard 📊
+
 Welcome to my Olist E-Commerce Sales Analysis Dashboard Project! 🚀
 This project dives deep into real-world e-commerce data from the Olist platform (Brazil), transforming thousands of transactions into interactive Power BI insights that visualize sales, orders, customers, delivery times, and product performance across Brazil. 🇧🇷
 The goal was to create a comprehensive, business-ready Power BI Dashboard that helps companies understand customer behavior, profit trends, and regional performance, ultimately empowering data-driven decision-making. 💼📈
+
+
 ---
 
 ## 🌟 Project Overview:
@@ -101,7 +104,7 @@ Key discoveries from this dashboard include:
 
 
 ## 🚀 Conclusion:
-### This project demonstrates the power of Power BI and data analytics in transforming complex e-commerce datasets into clear, actionable business insights.
+This project demonstrates the power of Power BI and data analytics in transforming complex e-commerce datasets into clear, actionable business insights.
 By leveraging data modeling, DAX, and dynamic visualizations, I was able to build an interactive analytical tool that helps businesses:
 - ✅ Identify profitable regions & products
 - ✅ Understand customer payment behavior

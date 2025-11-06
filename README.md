@@ -130,7 +130,7 @@ This journey strengthened my data storytelling and Power BI development skills â
 
 ---
 
-### Super Store Sales Analysis Dashboard Preview:-
+### O-list Dashboard Preview:-
 ![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK4/blob/main/Olist%20E-Commerce%20Analysis.png)
 
 
